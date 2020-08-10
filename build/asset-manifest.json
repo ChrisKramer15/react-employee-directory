@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ChrisKramer15/react-employee-directorystatic/css/main.3a7a64a4.chunk.css",
+    "main.js": "/ChrisKramer15/react-employee-directorystatic/js/main.03e70c85.chunk.js",
+    "main.js.map": "/ChrisKramer15/react-employee-directorystatic/js/main.03e70c85.chunk.js.map",
+    "runtime-main.js": "/ChrisKramer15/react-employee-directorystatic/js/runtime-main.3b34b9fd.js",
+    "runtime-main.js.map": "/ChrisKramer15/react-employee-directorystatic/js/runtime-main.3b34b9fd.js.map",
+    "static/js/2.9a1886b4.chunk.js": "/ChrisKramer15/react-employee-directorystatic/js/2.9a1886b4.chunk.js",
+    "static/js/2.9a1886b4.chunk.js.map": "/ChrisKramer15/react-employee-directorystatic/js/2.9a1886b4.chunk.js.map",
+    "index.html": "/ChrisKramer15/react-employee-directoryindex.html",
+    "precache-manifest.d0992fd07526bec126636e73372bd6d2.js": "/ChrisKramer15/react-employee-directoryprecache-manifest.d0992fd07526bec126636e73372bd6d2.js",
+    "service-worker.js": "/ChrisKramer15/react-employee-directoryservice-worker.js",
+    "static/css/main.3a7a64a4.chunk.css.map": "/ChrisKramer15/react-employee-directorystatic/css/main.3a7a64a4.chunk.css.map",
+    "static/js/2.9a1886b4.chunk.js.LICENSE.txt": "/ChrisKramer15/react-employee-directorystatic/js/2.9a1886b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b34b9fd.js",
+    "static/js/2.9a1886b4.chunk.js",
+    "static/css/main.3a7a64a4.chunk.css",
+    "static/js/main.03e70c85.chunk.js"
+  ]
+}
