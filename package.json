@@ -1,5 +1,4 @@
 {
-  "homepage": "http://chriskramer15.github.io/react-employee-directory",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -48,5 +47,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ChrisKramer15/react-employee-directory/issues"
-  }
+  },
+  "homepage": "http://chriskramer15.github.io/react-employee-directory"
 }
