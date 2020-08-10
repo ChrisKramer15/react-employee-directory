@@ -17,9 +17,9 @@ function listEmployees(props) {
                 </p>
               </th>
               <th scope="col">
-                <a name="name" onClick={props.onClick}>
-                  <p>Name</p>
-                </a>
+                <p name="name" onClick={props.onClick}>
+                  Name
+                </p>
               </th>
               <th scope="col">
                 <p name="phone" onClick={props.onClick}>
